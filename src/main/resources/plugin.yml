@@ -1,0 +1,6 @@
+name: CustomItemsTutorial
+version: '${project.version}'
+main: com.gestankbratwurst.customitemstutorial.CustomItemsPlugin
+api-version: 1.19
+authors: [ Gestankbratwurst ]
+description: Custom items tutorial
